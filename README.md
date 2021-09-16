@@ -6,4 +6,8 @@
 
 3. ing...
 
+5. Pattern
+
+4. Idea
+
 ***
