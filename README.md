@@ -1,7 +1,7 @@
 # Meerkat
 
-## Jython vs pyro4 vs jep
+1. Jython vs pyro4 vs jep
 
-## ERD
+2. ERD
 
-## ing...
+3. ing...
