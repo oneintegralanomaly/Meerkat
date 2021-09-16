@@ -2,12 +2,16 @@
 
 1. Jython vs pyro4 vs jep
 
-3. ERD
+2. Idea
 
-5. ing...
+3. ERD
 
 4. Pattern
 
-2. Idea
+5. ing...
+
+
+
+
 
 ***
