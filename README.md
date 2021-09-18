@@ -2,7 +2,7 @@
 
 1. Jython vs jep
 
-2. Idea
+2. Idea(Checked)
 
 3. ERD
 
