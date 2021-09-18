@@ -4,11 +4,13 @@
 
 2. Idea(Checked)
 
-3. ERD
+3. Key Functions
 
-4. Pattern
+4. ERD
 
-5. ing...
+5. Pattern
+
+6. ing...
 
 
 
