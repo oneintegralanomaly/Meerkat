@@ -1,4 +1,4 @@
-# Meerkat
+# Moody-Meerkat
 
 1. Jython vs jep
 
