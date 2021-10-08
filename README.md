@@ -1,6 +1,6 @@
 # Moody-Meerkat
 
-1. ~~Jython vs jep
+1. ~~Jython vs jep~~
 (진도 이상 구현 자제 권고로 폐기)
 
 2. Idea(ing..)
